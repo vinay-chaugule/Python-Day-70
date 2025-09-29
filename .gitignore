@@ -1,0 +1,4 @@
+.idea/
+.venv/
+git_passcode.txt
+main.py
